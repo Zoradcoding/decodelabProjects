@@ -1,5 +1,4 @@
 import string
-
 def check_password_strength(password: str) -> dict:
     length = len(password)
 
